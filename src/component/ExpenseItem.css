@@ -1,0 +1,22 @@
+.expense-item {
+    display: flex;
+    width: 500px;
+    border: 1px solid #a19f9f;
+    background-color: #d67a7a;
+    color: white;
+    border-radius: 12px;
+    
+  }
+  
+  .expense-item__description {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  .expense-item__price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+ 
